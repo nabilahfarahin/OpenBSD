@@ -35,3 +35,4 @@ public class info
 		public static void echo(String msg) {
 		System.out.println(msg);  }
 }
+assignment2Server
